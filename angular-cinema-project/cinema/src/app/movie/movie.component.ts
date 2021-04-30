@@ -20,6 +20,7 @@ export class MovieComponent implements OnInit {
   }
 
   saveMovie(): any {
+    console.log('movie');
     return {};
   }
 
